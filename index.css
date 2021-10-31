@@ -29,8 +29,11 @@ a{
     list-style: none;
     display: flex;
     justify-content: space-around;
-    height: 525px; 
-    
+    height: 100vh;    
+}
+
+.main-cont ul{
+    margin-top: 15%;
 }
 
 .main-len{
